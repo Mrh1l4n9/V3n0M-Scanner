@@ -54,7 +54,7 @@ Note for Kali users: Please make sure you have installed --> `apt-get install py
 Clone the repository:
 
 ```
-$ git clone https://github.com/v3n0m-Scanner/V3n0M-Scanner.git
+$ git clone https://github.com/Mrh1l4n9/V3n0M-Scanner.git
 ```
 
 Then go inside:
